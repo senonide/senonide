@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently working on Cloud related stuff with terraform, go and kubernetes
+I'm currently working on Cloud related stuff with aws, go and kubernetes
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-nonide-miranda) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/senonide) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/se-nonide) 
