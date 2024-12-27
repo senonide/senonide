@@ -5,7 +5,7 @@ header {
 }
 
 h1 {
-    color: #59a5d8;
+    color: #42b883;
     font-size: 2.5rem;
     margin-bottom: 20px;
 }
@@ -25,7 +25,7 @@ p {
 
 .tech-stack h2,
 .contact h2 {
-    color: #59a5d8;
+    color: #42b883;
     font-size: 2rem;
 }
 
@@ -48,7 +48,7 @@ footer {
 }
 
 footer a {
-    color: #59a5d8;
+    color: #42b883;
     text-decoration: none;
 }
 </style>
