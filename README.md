@@ -19,16 +19,23 @@ Here are some ideas to get you started:
 ![build: passing](https://img.shields.io/badge/build-passing-success)&nbsp;
 
 ### Hi there I'm Sergio Nonide 👋
-My name is Sergio Nonide, and I'm a software engineer with a strong focus on cloud technologies particularly AWS, web development and distributed systems. My go-to programming language is Go, and I'm passionate about working on high-scalability projects. I'm an advocate for open-source software and am currently diving into learning Rust. As a dedicated Linux user, I love leveraging it for both personal and professional projects.
+I am a software engineer specializing in cloud technologies, with a
+particular emphasis on AWS, web development and distributed systems.
+My primary programming language is Go. I am deeply passionate about
+building high-scalability solutions. As a strong proponent of
+open-source software, I actively contribute to and support the
+community. Currently, I am expanding my expertise by learning Rust.
+Additionally, I leverage Linux extensively for both professional and
+personal projects, reflecting my commitment to robust and efficient
+software development practices.
 
 ### 🛠 Tech Stack:
 
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust&logoColor=A8B9CC)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 
 ### 📫 How to reach me:
