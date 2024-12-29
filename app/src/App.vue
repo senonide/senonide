@@ -55,14 +55,17 @@ footer a {
 
 <template>
     <header>
-        <h1>Hi there, I'm Sergio 👋</h1>
+        <h1>Hi there, I'm Sergio</h1>
         <p>
-            I'm a software engineer with a strong focus on cloud technologies,
-            particularly AWS, web development, and distributed systems. My go to
-            programming language is Go, and I'm passionate about
-            high-scalability projects. I advocate for open-source software and
-            am currently learning Rust. I also love leveraging Linux for both
-            personal and professional projects.
+            I am a software engineer specializing in cloud technologies, with a
+            particular emphasis on AWS, web development and distributed systems.
+            My primary programming language is Go. I am deeply passionate about
+            building high-scalability solutions. As a strong proponent of
+            open-source software, I actively contribute to and support the
+            community. Currently, I am expanding my expertise by learning Rust.
+            Additionally, I leverage Linux extensively for both professional and
+            personal projects, reflecting my commitment to robust and efficient
+            software development practices.
         </p>
     </header>
 
@@ -114,7 +117,7 @@ footer a {
 
     <footer>
         <p>
-            &copy; 2024 Sergio Nonide -
+            Sergio Nonide -
             <a href="https://github.com/senonide">GitHub</a>
         </p>
     </footer>
