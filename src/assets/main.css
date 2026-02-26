@@ -1,23 +1,149 @@
-@import "./base.css";
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;450;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap");
 
-#app {
-    max-width: 1280px;
-    margin: 0 auto;
-    padding: 2rem;
-    font-weight: normal;
+/* ─── Design tokens ──────────────────────────────────────────────────────── */
+:root {
+    --accent: #9ec2ad;
+    --accent-dim: rgba(158, 194, 173, 0.65);
+    --accent-faint: rgba(158, 194, 173, 0.12);
+    --accent-glow: rgba(158, 194, 173, 0.1);
+
+    --bg: #080c10;
+    --bg-surface: rgba(12, 18, 24, 0.65);
+    --bg-surface-alt: rgba(14, 20, 26, 0.8);
+
+    --text-primary: #edf2f4;
+    --text-secondary: rgba(200, 215, 210, 0.78);
+    --text-muted: rgba(185, 205, 200, 0.45);
+
+    --border: rgba(158, 194, 173, 0.12);
+    --border-hover: rgba(158, 194, 173, 0.3);
+
+    --radius-sm: 6px;
+    --radius-md: 10px;
+    --radius-lg: 14px;
+    --radius-xl: 20px;
+
+    --font-sans:
+        "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    --font-mono: "JetBrains Mono", "Fira Code", "Cascadia Code", monospace;
+
+    --transition-fast: 0.18s ease;
+    --transition-base: 0.25s ease;
+    --transition-slow: 0.4s ease;
 }
 
-a,
-.green {
+/* ─── Reset ──────────────────────────────────────────────────────────────── */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* ─── Base ───────────────────────────────────────────────────────────────── */
+html {
+    scroll-behavior: smooth;
+    font-size: 16px;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+
+body {
+    font-family: var(--font-sans);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.65;
+    color: var(--text-primary);
+    background: var(--bg);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+}
+
+/* ─── Typography baseline ────────────────────────────────────────────────── */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--font-sans);
+    font-weight: 700;
+    line-height: 1.15;
+    color: var(--text-primary);
+    letter-spacing: -0.025em;
+}
+
+p {
+    color: var(--text-secondary);
+    line-height: 1.75;
+    margin: 0;
+}
+
+a {
+    color: inherit;
     text-decoration: none;
-    color: hsla(160, 100%, 37%, 1);
-    transition: 0.4s;
-    padding: 3px;
 }
 
-@media (min-width: 1024px) {
-    body {
-        display: flex;
-        place-items: center;
-    }
+button {
+    font-family: var(--font-sans);
+    cursor: pointer;
+}
+
+img,
+svg {
+    display: block;
+    max-width: 100%;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+/* ─── Scrollbar (webkit) ─────────────────────────────────────────────────── */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--bg);
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(158, 194, 173, 0.2);
+    border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(158, 194, 173, 0.38);
+}
+
+/* ─── Selection ──────────────────────────────────────────────────────────── */
+::selection {
+    background: rgba(158, 194, 173, 0.25);
+    color: var(--text-primary);
+}
+
+/* ─── Focus ring ─────────────────────────────────────────────────────────── */
+:focus-visible {
+    outline: 2px solid rgba(158, 194, 173, 0.6);
+    outline-offset: 3px;
+    border-radius: 4px;
+}
+
+/* ─── App root ───────────────────────────────────────────────────────────── */
+#app {
+    position: relative;
+    min-height: 100vh;
+    isolation: isolate;
+}
+
+/* ─── Page scroll wrapper ────────────────────────────────────────────────── */
+.page {
+    position: relative;
+    z-index: 1;
 }
