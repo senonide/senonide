@@ -1,46 +1,48 @@
-<!--
-**senonide/senonide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=senonide.senonide)&nbsp;
-![version :1.0](https://img.shields.io/badge/version-1.0-informational)&nbsp;
-![profile count](https://komarev.com/ghpvc/?username=senonide&color=red)&nbsp;
-[![GitHub senonide](https://img.shields.io/github/followers/senonide?label=follow&style=social)](https://github.com/senonide)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)&nbsp;
-
-### Hi there I'm Sergio Nonide 👋
-Software Engineer passionate about building robust, highly scalable, and high-performance systems.
-Specialized in cloud technologies (primarily AWS), distributed systems architecture, and backend development with Go (Golang) as my main programming language. I’m particularly driven by designing elegant, simple solutions to complex problems.
-Strong advocate for open-source software and a daily Linux user in both professional and personal environments.
-Always open to collaborating on challenging projects, sharing knowledge, and connecting with professionals who share a passion for technology and engineering excellence.
-
-### 🛠 Tech Stack:
-
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Zig](https://img.shields.io/badge/-Zig-05122A?style=flat&logo=Zig)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-
-
-### 📫 How to reach me:
-<a href="https://www.linkedin.com/in/sergio-nonide-miranda/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-
-### 📈 My GitHub Stats:
 <div align="center">
-<br/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senonide&theme=dark&hide_border=false" alt="senonide's Github Stats">
-<br/>
-<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senonide&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="senonide's languages">
+
+# Sergio Nonide
+
+**Software Engineer** — Backend · Distributed Systems · Cloud
+
+<sub>Madrid, Spain · UTC+1</sub>
+
+</div>
+
+---
+
+### `$ whoami`
+
+I'm a software engineer based in Madrid, building backend systems and cloud infrastructure. Most of my time goes into **Go**, designing distributed systems on **AWS**, and finding the simplest design that still does the problem justice.
+
+Open-source advocate and a daily Linux user — at work and at home. I enjoy trading ideas with engineers who care as much about *how* something is built as *that* it ships, so if you're working on something interesting in the same space, feel free to reach out.
+
+---
+
+### `$ neofetch`
+
+```text
+                             sergio@nonide
+       .--.                  ─────────────────────────────────────
+      |o_o |                 OS         Linux
+      |:_/ |                 Shell      zsh · tmux
+     //   \ \                Editor     Neovim
+    (|     | )               Languages  Go · TS · C · Python · Zig 
+   /'\_   _/`\               Cloud      AWS · Terraform · Kubernetes
+   \___)=(___/               Focus      Backend · Distributed Systems
+                             Location   Madrid, Spain · UTC+1
+```
+
+---
+
+### `$ contact --list`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-nonide-miranda/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/senonide)
+[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/senonide)
+[![Website](https://img.shields.io/badge/senonide.com-0D1117?style=for-the-badge&logoColor=white)](https://senonide.com)
+
+---
+
+<div align="center">
+<sub><code>$ exit</code></sub>
 </div>
